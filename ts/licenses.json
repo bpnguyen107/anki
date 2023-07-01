@@ -129,9 +129,9 @@
     },
     "codemirror@5.65.18": {
         "licenses": "MIT",
-        "repository": "https://github.com/codemirror/CodeMirror",
+        "repository": "https://github.com/codemirror/basic-setup",
         "publisher": "Marijn Haverbeke",
-        "email": "marijn@haverbeke.berlin",
+        "email": "marijnh@gmail.com",
         "path": "node_modules/codemirror",
         "licenseFile": "node_modules/codemirror/LICENSE"
     },
@@ -686,6 +686,13 @@
         "path": "node_modules/source-map",
         "licenseFile": "node_modules/source-map/LICENSE"
     },
+    "style-mod@4.0.3": {
+        "licenses": "MIT",
+        "publisher": "Marijn Haverbeke",
+        "email": "marijn@haverbeke.berlin",
+        "path": "node_modules/style-mod",
+        "licenseFile": "node_modules/style-mod/LICENSE"
+    },
     "symbol-tree@3.2.4": {
         "licenses": "MIT",
         "repository": "https://github.com/jsdom/js-symbol-tree",
@@ -732,6 +739,14 @@
         "email": "timothygu99@gmail.com",
         "path": "node_modules/w3c-hr-time",
         "licenseFile": "node_modules/w3c-hr-time/LICENSE.md"
+    },
+    "w3c-keyname@2.2.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/marijnh/w3c-keyname",
+        "publisher": "Marijn Haverbeke",
+        "email": "marijn@haverbeke.berlin",
+        "path": "node_modules/w3c-keyname",
+        "licenseFile": "node_modules/w3c-keyname/LICENSE"
     },
     "w3c-xmlserializer@3.0.0": {
         "licenses": "MIT",
